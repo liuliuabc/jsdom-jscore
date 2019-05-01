@@ -7,6 +7,15 @@
       "name": "Brent Vatne",
       "email": "brentvatne@gmail.com"
     },
+    "dependencies": {
+    "buffer": "^5.2.1",
+    "domutils": "^1.7.0",
+    "events": "^3.0.0",
+    "querystring": "^0.2.0",
+    "readable-stream": "^3.3.0",
+    "stream": "0.0.2",
+    "util": "^0.11.1"
+  },
     "bugs": "https://github.com/brentvatne/jsdom-jscore/issues",
     "license": {
         "type": "MIT",
